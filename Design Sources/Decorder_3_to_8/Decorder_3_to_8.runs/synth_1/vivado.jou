@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Sun May  4 22:53:32 2025
+# Process ID: 27056
+# Current directory: C:/Users/DELL/Documents/nanoprocessor/component/Decorder_3_to_8/Decorder_3_to_8.runs/synth_1
+# Command line: vivado.exe -log Decoder_3_to_8.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Decoder_3_to_8.tcl
+# Log file: C:/Users/DELL/Documents/nanoprocessor/component/Decorder_3_to_8/Decorder_3_to_8.runs/synth_1/Decoder_3_to_8.vds
+# Journal file: C:/Users/DELL/Documents/nanoprocessor/component/Decorder_3_to_8/Decorder_3_to_8.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Decoder_3_to_8.tcl -notrace

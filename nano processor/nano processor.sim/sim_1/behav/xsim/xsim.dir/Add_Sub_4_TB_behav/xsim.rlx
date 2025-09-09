@@ -1,0 +1,12 @@
+
+{ 
+    crc :  4576119350594794804  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto dbc59de7d6124933aca3a790ade598fa --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot Add_Sub_4_TB_behav xil_defaultlib.Add_Sub_4_TB" , 
+    buildDate : "Apr  4 2018" , 
+    buildTime : "19:30:32" , 
+    linkCmd : "D:\\ProgramFiles\\Vivado\\2018.1\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/Add_Sub_4_TB_behav/xsimk.exe\"   \"xsim.dir/Add_Sub_4_TB_behav/obj/xsim_0.win64.obj\" \"xsim.dir/Add_Sub_4_TB_behav/obj/xsim_1.win64.obj\" \"D:\\ProgramFiles\\Vivado\\2018.1\\lib\\win64.o\\\\librdi_simulator_kernel.dll\"  \"D:\\ProgramFiles\\Vivado\\2018.1\\lib\\win64.o\\\\librdi_simbridge_kernel.dll\"" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

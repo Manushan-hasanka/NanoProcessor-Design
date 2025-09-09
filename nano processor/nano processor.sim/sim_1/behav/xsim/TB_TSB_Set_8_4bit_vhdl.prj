@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Nano Processor.srcs/sources_1/imports/component/Decoder_2_to_4.vhd" \
+"../../../../Nano Processor.srcs/sources_1/imports/component/Decoder_3_to_8.vhd" \
+"../../../../Nano Processor.srcs/sources_1/imports/component/TSB_Set_8_4bit.vhd" \
+"../../../../Nano Processor.srcs/sources_1/imports/component/Tristate_Buf.vhd" \
+"../../../../Nano Processor.srcs/sim_1/imports/component/TB_TSB_Set_8_4bit.vhd" \
+
+# Do not sort compile order
+nosort
